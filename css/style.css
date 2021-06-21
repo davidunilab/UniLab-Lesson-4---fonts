@@ -1,0 +1,21 @@
+section {
+    margin: 40px;
+}
+.paragraphs {
+    display: inline-block;
+    width: 930px;
+    margin-bottom:100px;
+    vertical-align: top;
+}
+.paragraphG1 {
+    font-family: "ALK Tommaso", sans-serif;
+}
+.paragraphG2{
+    font-family: 'ALK Tall Nusxuri';
+}
+.paragraphE1{
+    font-family: 'Roboto', sans-serif;
+}
+.paragraphE2{
+    font-family: 'Lato';
+}
